@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/mandelbrot.cpp.o CMakeFiles/untitled1.dir/cache-test.cpp.o  -o untitled1 
