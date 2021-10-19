@@ -1,0 +1,6 @@
+[submodule "infos"]
+	path = infos
+	url = git@github.com:kimbethstonehouse/infos.git
+[submodule "infos-user"]
+	path = infos-user
+	url = https://github.com/kimbethstonehouse/infos-user
